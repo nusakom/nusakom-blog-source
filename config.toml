@@ -1,0 +1,5 @@
+
+baseURL = "https://nusakom.github.io/"
+languageCode = "en-us"
+title = "Nusakom's Blog"
+theme = "ananke"
